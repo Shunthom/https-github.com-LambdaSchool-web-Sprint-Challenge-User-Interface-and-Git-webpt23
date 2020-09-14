@@ -1,0 +1,21 @@
+If you were to describe semantic HTML to the next cohort of students, what would you say?
+>I would describe sematic HTML as markup that helps to add meaning to the text.
+
+Name two big differences between display: block; and display: inline;.
+>Block takes up the full width available, with a new line before and after
+
+>Inline takes up only as much width as it needs , and does not orce new lines
+
+What are the 4 areas of the box model?
+>content
+>padding
+>border
+>margin
+
+While using flexbox, what axis does the following property work on: align-items: center?
+>They are aligned on the cross axis
+
+Explain why git is valuable to a team of developers.
+>Git helps make version control easier. Version control allows teams to keep track of work that 
+>has been done ony particular project, and allows team members to explore any changes that have been made
+>as well as the ability to make changes themselves.
